@@ -1,0 +1,21 @@
+Mario ama 2020
+Polisten Kacin
+2019'da guzeldi her sey, sonra 2020 geldi
+Bak simdi, level 1 bir cok zor tamam mi sonra leveller kolaylasiyor
+
+
+
+Atış Mekaniği
+Kule Yerleştirme
+
+Kule Seçme Satma
+
+Market Mekaniği
+Para birimi
+
+Canlar
+Can Barları
+
+Kullanıcı Arayüzü
+Pause ve Maın Menu Game Over
+

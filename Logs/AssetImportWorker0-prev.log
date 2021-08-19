@@ -1,0 +1,599 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.985; Version 2004; 64bit' Language: 'tr' Physical Memory: 8050 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.12f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Omer/Desktop/UnityProjeleri/2020thegame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63382
+Successfully changed project path to: C:/Users/Omer/Desktop/UnityProjeleri/2020thegame
+C:/Users/Omer/Desktop/UnityProjeleri/2020thegame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 35.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Omer/Desktop/UnityProjeleri/2020thegame/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   30.0.14.7111
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56804
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001768 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 35.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.488 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.132483 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.024 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1413 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 154.3 MB.
+System memory in use after: 154.3 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1891.
+Total: 3.213700 ms (FindLiveObjects: 0.262300 ms CreateObjectMapping: 0.084500 ms MarkObjects: 2.737200 ms  DeleteObjects: 0.128200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c04.renderer 1.exr
+  artifactKey: Guid(c74e3ec8ea4be444a925ab3e232612af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c04.renderer 1.exr using Guid(c74e3ec8ea4be444a925ab3e232612af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b2d4cdfa84c8a7dd6ffe24be0ca836a') in 0.081788 seconds 
+  Import took 0.085375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c01.renderer.exr
+  artifactKey: Guid(6b512c17768935e41a1d4eb2933e8b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c01.renderer.exr using Guid(6b512c17768935e41a1d4eb2933e8b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c2bc1ca23472e2bf24add94ceb9eb81') in 0.013246 seconds 
+  Import took 0.016124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Prefabs/Finish.mat
+  artifactKey: Guid(37ea4657d4dc41d4a9167c059175cd0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Finish.mat using Guid(37ea4657d4dc41d4a9167c059175cd0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e65fb74742998babf0592537764749c') in 0.194495 seconds 
+  Import took 0.198227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c02.renderer.exr
+  artifactKey: Guid(6274241ba2bea41408628028d30a1e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c02.renderer.exr using Guid(6274241ba2bea41408628028d30a1e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bc14ef5c5f3c66b9d2f4cde195abac3') in 0.013284 seconds 
+  Import took 0.016989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c05.renderer.exr
+  artifactKey: Guid(0f21fbf5f3200ad45952275842bcd15d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c05.renderer.exr using Guid(0f21fbf5f3200ad45952275842bcd15d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '920a572596ca81f57e412d72c6b45013') in 0.015655 seconds 
+  Import took 0.020692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c03.renderer 1.exr
+  artifactKey: Guid(e6bfa909e1f173548ae6c4d6db8e64ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c03.renderer 1.exr using Guid(e6bfa909e1f173548ae6c4d6db8e64ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c4e54065ddd1b960f13fee28b697137') in 0.015098 seconds 
+  Import took 0.018061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c00.renderer 1.exr
+  artifactKey: Guid(666c1e9c1f8582945b00e0753e8ff2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c00.renderer 1.exr using Guid(666c1e9c1f8582945b00e0753e8ff2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd448b00169bf799956e0769a3d22e63e') in 0.012520 seconds 
+  Import took 0.016400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Prefabs/TurretNodes.prefab
+  artifactKey: Guid(4533da15f760a5e438d6e74dda86422c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/TurretNodes.prefab using Guid(4533da15f760a5e438d6e74dda86422c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f12481d78d93aaa584cd589089da0fc9') in 0.121305 seconds 
+  Import took 0.124489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Prefabs/Waypoints.prefab
+  artifactKey: Guid(abb37b17f64f74c4db7a96dfaeac3c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Waypoints.prefab using Guid(abb37b17f64f74c4db7a96dfaeac3c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e76a89bff461fe7cca852c6e649a07bc') in 0.011357 seconds 
+  Import took 0.014996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Prefabs/RealCanvas.prefab
+  artifactKey: Guid(75f081cf7e11d4c49bdf6bdffacfa165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/RealCanvas.prefab using Guid(75f081cf7e11d4c49bdf6bdffacfa165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03bf1307922f3a7fa3194ed7f116ab09') in 0.052718 seconds 
+  Import took 0.055986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Prefabs/eskiVirus/TwoDiffusersStudio_thumb.png
+  artifactKey: Guid(607b639c8e6697748a0ef6cec6ea2f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/eskiVirus/TwoDiffusersStudio_thumb.png using Guid(607b639c8e6697748a0ef6cec6ea2f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec74a636dbbd6011cfce789234830404') in 0.020449 seconds 
+  Import took 0.023912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c03.renderer.exr
+  artifactKey: Guid(356b53e8ea0d48744bf02b60ff1ae150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c03.renderer.exr using Guid(356b53e8ea0d48744bf02b60ff1ae150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b36ff371927dc18b673e6930d9beb1b') in 0.014939 seconds 
+  Import took 0.019956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Prefabs/eskiVirus/virus.obj
+  artifactKey: Guid(490f1dbebf9114c4492bf278fd630cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/eskiVirus/virus.obj using Guid(490f1dbebf9114c4492bf278fd630cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3df213489f3b8554000643551b97503') in 0.096525 seconds 
+  Import took 0.099925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Prefabs/Siringa.prefab
+  artifactKey: Guid(50e390dfac7009e4c86d0617a73cdb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Siringa.prefab using Guid(50e390dfac7009e4c86d0617a73cdb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d0902883dac74a900db9b315bb2dbf7') in 0.008586 seconds 
+  Import took 0.011038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Prefabs/GameMaster.prefab
+  artifactKey: Guid(84e199054f5a42243bceda9c64a51251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameMaster.prefab using Guid(84e199054f5a42243bceda9c64a51251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f017821126c0d192fabbc8d350cb839') in 0.017620 seconds 
+  Import took 0.020725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Prefabs/NodeUI.prefab
+  artifactKey: Guid(95214c836af88f745a10461cb33dd0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NodeUI.prefab using Guid(95214c836af88f745a10461cb33dd0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a464cc2234d9a4810db360f3728d4eb4') in 0.013875 seconds 
+  Import took 0.017238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Prefabs/Sea.prefab
+  artifactKey: Guid(c405d2e8bd2d20746bf344cd505d7ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Sea.prefab using Guid(c405d2e8bd2d20746bf344cd505d7ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c66a0f986c3ef25fdc7a031d3517cba') in 0.017311 seconds 
+  Import took 0.021132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Prefabs/BulletImpact.prefab
+  artifactKey: Guid(a199fe2b157b94b47ab86034e09bcc9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BulletImpact.prefab using Guid(a199fe2b157b94b47ab86034e09bcc9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96e4a1a565faae1d2d8326296aefe0f0') in 0.009517 seconds 
+  Import took 0.012655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Prefabs/eskiVirus
+  artifactKey: Guid(4ae8458763e4cf944a5d333fccbbb5a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/eskiVirus using Guid(4ae8458763e4cf944a5d333fccbbb5a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79b06ddd92a86b84faf44b15f0ea9165') in 0.011338 seconds 
+  Import took 0.015574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Prefabs/Start.mat
+  artifactKey: Guid(1579ae4e1b9677d47b91602e08830583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Start.mat using Guid(1579ae4e1b9677d47b91602e08830583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42e7ccd6fb39f847cd26c61c490ac363') in 0.020972 seconds 
+  Import took 0.025192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c00.renderer.exr
+  artifactKey: Guid(71e073ee625134541ad79735e7d06839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c00.renderer.exr using Guid(71e073ee625134541ad79735e7d06839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02dee92b27bec3e0ed50b612cc477079') in 0.012934 seconds 
+  Import took 0.016707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Prefabs/Main Camera.prefab
+  artifactKey: Guid(4d107fd0dd4f12a4585b55cb49074bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Main Camera.prefab using Guid(4d107fd0dd4f12a4585b55cb49074bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d04e436e69bc6d91ef9ed8313b31794') in 0.014253 seconds 
+  Import took 0.018567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Prefabs/eskiVirus/sars.jpg
+  artifactKey: Guid(f584bf8608325e04180e8c65a72d43f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/eskiVirus/sars.jpg using Guid(f584bf8608325e04180e8c65a72d43f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00c68c83f865b66120c6891ad88b90f1') in 0.028078 seconds 
+  Import took 0.032583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Prefabs/Main Camera 1.prefab
+  artifactKey: Guid(184d831e0f399644890a8245e78a7db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Main Camera 1.prefab using Guid(184d831e0f399644890a8245e78a7db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86e20b4093adfe6a57ac37562d4ba891') in 0.011966 seconds 
+  Import took 0.015796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(19bf4ebbee25fa6459ed1e84fe727f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(19bf4ebbee25fa6459ed1e84fe727f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f90abf00877d3cf3a00b0588a93ed7d7') in 0.008203 seconds 
+  Import took 0.011331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Prefabs/BulletUpgrade.prefab
+  artifactKey: Guid(1be8efaafd6c5a3428a5ef6bbf524e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BulletUpgrade.prefab using Guid(1be8efaafd6c5a3428a5ef6bbf524e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76125f1e9ba8b874a2ca9abd26c0c1f5') in 0.016992 seconds 
+  Import took 0.020346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Prefabs/eskiVirus/TwoDiffusersStudio.renderer.exr
+  artifactKey: Guid(1e6f0221e3f7c1d47903e4d2ef2ed3e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/eskiVirus/TwoDiffusersStudio.renderer.exr using Guid(1e6f0221e3f7c1d47903e4d2ef2ed3e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f992a2bc3f62ced4b481ce76fcb3b059') in 0.024359 seconds 
+  Import took 0.028909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Prefabs/Waypoint.prefab
+  artifactKey: Guid(db1610165e849014d8dcb4f800ef0994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Waypoint.prefab using Guid(db1610165e849014d8dcb4f800ef0994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1de8c3ba95d97f1df347a216c37e46d7') in 0.016167 seconds 
+  Import took 0.020754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Prefabs/Ground.prefab
+  artifactKey: Guid(46a6861a404bd3f4a9651060a526bef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ground.prefab using Guid(46a6861a404bd3f4a9651060a526bef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50a4e703e7c0252ad132a8a93cd8854d') in 0.030541 seconds 
+  Import took 0.035185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Prefabs/Tree_03.prefab
+  artifactKey: Guid(7431d8e6e6c71f64091524f666dfc45d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tree_03.prefab using Guid(7431d8e6e6c71f64091524f666dfc45d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4b00798f26af63c28cadc9fa7fa3582') in 0.035216 seconds 
+  Import took 0.041048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Prefabs/syringe_v1_L1.123cb2fa3415-7c22-4e57-9194-c88a9861f8b3
+  artifactKey: Guid(758ac7f32e2c2b645bdfca91971bd442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/syringe_v1_L1.123cb2fa3415-7c22-4e57-9194-c88a9861f8b3 using Guid(758ac7f32e2c2b645bdfca91971bd442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5212aee6a3f33768593bcd88e6ac75a7') in 0.009782 seconds 
+  Import took 0.014170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Prefabs/LaserSphere.prefab
+  artifactKey: Guid(84a79636d639256488976bc5dd52f4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LaserSphere.prefab using Guid(84a79636d639256488976bc5dd52f4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4342ae92e95060b6f324ef246f4f82f') in 0.059544 seconds 
+  Import took 0.064592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Prefabs/siringaTareti.prefab
+  artifactKey: Guid(d418be41c0f5eb94299d6865da26fa76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/siringaTareti.prefab using Guid(d418be41c0f5eb94299d6865da26fa76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '401da659d736bd18af9f587fc30722a0') in 0.021982 seconds 
+  Import took 0.027366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Prefabs/Sea 1.prefab
+  artifactKey: Guid(a8a04f439cd0de14994b8b602bae8d19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Sea 1.prefab using Guid(a8a04f439cd0de14994b8b602bae8d19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '270918c0f0db9a28b05894f05a1b3849') in 0.017497 seconds 
+  Import took 0.022396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001867 seconds.
+  path: Assets/Prefabs/UpgradedSanitizer.prefab
+  artifactKey: Guid(e3b936e650bda694babf64ac8015ee73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/UpgradedSanitizer.prefab using Guid(e3b936e650bda694babf64ac8015ee73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23618a2c3a57be89f0625e81e7acf076') in 0.058236 seconds 
+  Import took 0.063351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Prefabs/UpgradedSyringe.prefab
+  artifactKey: Guid(d4299a803bf6a144ca88af1591d3d5b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/UpgradedSyringe.prefab using Guid(d4299a803bf6a144ca88af1591d3d5b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '328d4bbcdff41f8f205f218e37979a44') in 0.015367 seconds 
+  Import took 0.019734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Prefabs/Sanitizer.prefab
+  artifactKey: Guid(865408d5b623244448390da51f4f83c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Sanitizer.prefab using Guid(865408d5b623244448390da51f4f83c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0754eb4412bc333f40b017d2103768eb') in 0.021769 seconds 
+  Import took 0.027695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Prefabs/Bullet.prefab
+  artifactKey: Guid(f4cfbd6cdb108324cb44cda05703bee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Bullet.prefab using Guid(f4cfbd6cdb108324cb44cda05703bee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '898ebe88d47300d0fc47a07f836be9ef') in 0.014599 seconds 
+  Import took 0.017945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Prefabs/virus.prefab
+  artifactKey: Guid(0234bcb621b42224f96becd11764e598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/virus.prefab using Guid(0234bcb621b42224f96becd11764e598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d8c1e05d2729fd49281598e95d4fecc') in 0.014671 seconds 
+  Import took 0.018029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Prefabs/Ground 1.prefab
+  artifactKey: Guid(6e87be51d71bb084e9832defac44954f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ground 1.prefab using Guid(6e87be51d71bb084e9832defac44954f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7da0fe2bd48353f03e0fd2708d763147') in 0.022347 seconds 
+  Import took 0.026397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Prefabs/Main Camera 2.prefab
+  artifactKey: Guid(bb5342263432ad4499d0dee59ef40a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Main Camera 2.prefab using Guid(bb5342263432ad4499d0dee59ef40a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33150c33250be451d9a55b07d4fa71d0') in 0.011878 seconds 
+  Import took 0.014999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Prefabs/Road.prefab
+  artifactKey: Guid(9a7c6c68b6fd8a641b2a09a0daba4c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Road.prefab using Guid(9a7c6c68b6fd8a641b2a09a0daba4c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7bf388f4734a7898921cd9e2c6e6ce6') in 0.020610 seconds 
+  Import took 0.023510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Prefabs/Decoration.prefab
+  artifactKey: Guid(125df45061c1ac2459fd051533070c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Decoration.prefab using Guid(125df45061c1ac2459fd051533070c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a75058db274c8c716a0f91f48d4a95a') in 0.014155 seconds 
+  Import took 0.017848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001010 seconds.
+  path: Assets/Prefabs/Decorations.prefab
+  artifactKey: Guid(b0ce78ce21cb6294db70077d7d1dc3c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Decorations.prefab using Guid(b0ce78ce21cb6294db70077d7d1dc3c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd732ceb98aa4834a2a161fe15f84a13d') in 0.192573 seconds 
+  Import took 0.197056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Prefabs/eskiVirus/TwoDiffusersStudio.renderer 1.exr
+  artifactKey: Guid(8c1caadcec1a04e4389eacd42dde1c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/eskiVirus/TwoDiffusersStudio.renderer 1.exr using Guid(8c1caadcec1a04e4389eacd42dde1c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0a5554667b94c3ddc47d65c0a0bf878') in 0.015451 seconds 
+  Import took 0.019606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c01.renderer 1.exr
+  artifactKey: Guid(40fb1e867ba33714aaccaf042e4301e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c01.renderer 1.exr using Guid(40fb1e867ba33714aaccaf042e4301e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e06d5e254965b7858d504e2d41cae97') in 0.022490 seconds 
+  Import took 0.026075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Prefabs/eskiVirus/virus 1.obj
+  artifactKey: Guid(e44d5af296b17e84d8b0e3c6ddf5334d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/eskiVirus/virus 1.obj using Guid(e44d5af296b17e84d8b0e3c6ddf5334d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b672ffee6e9d67ebaebb33de99a5cad') in 0.031567 seconds 
+  Import took 0.034738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Prefabs/LaserImpact.mat
+  artifactKey: Guid(be4a7cab5b36d2542bb5b407e58dca0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LaserImpact.mat using Guid(be4a7cab5b36d2542bb5b407e58dca0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '856647525540a992e9b169585a347173') in 0.017539 seconds 
+  Import took 0.021959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/Prefabs/Directional Light 1.prefab
+  artifactKey: Guid(29ef56e2b1a03614a93e400b0232cfba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Directional Light 1.prefab using Guid(29ef56e2b1a03614a93e400b0232cfba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2feff0407fbffbc3ee3fb0e3d1569342') in 0.011486 seconds 
+  Import took 0.014683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Prefabs/eskiVirus/TwoDiffusersStudio_IRD_c00.renderer 1.exr
+  artifactKey: Guid(c3715e9b02932644c913e3f52187bf42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/eskiVirus/TwoDiffusersStudio_IRD_c00.renderer 1.exr using Guid(c3715e9b02932644c913e3f52187bf42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '156ef5d15c7a63fec7230b987daa51e0') in 0.011056 seconds 
+  Import took 0.014205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c02.renderer 1.exr
+  artifactKey: Guid(86619e49a56e2a94d95fdb269e9f3c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c02.renderer 1.exr using Guid(86619e49a56e2a94d95fdb269e9f3c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e30eb09389eeb0d5e2543adcb900dc2c') in 0.013699 seconds 
+  Import took 0.017542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Prefabs/eskiVirus/TwoDiffusersStudio_thumb 1.png
+  artifactKey: Guid(ca80006c78df0094e944807c0cccc323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/eskiVirus/TwoDiffusersStudio_thumb 1.png using Guid(ca80006c78df0094e944807c0cccc323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c5aca78b24e899a3d6c96a90852af14') in 0.018508 seconds 
+  Import took 0.022398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Prefabs/Grass.prefab
+  artifactKey: Guid(059dbf60221d30142b4f684dbfb454e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Grass.prefab using Guid(059dbf60221d30142b4f684dbfb454e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '768d609714090acc3f73523adb600bcb') in 1.175581 seconds 
+  Import took 1.253129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c04.renderer.exr
+  artifactKey: Guid(29c007dad5979074a8e5fb8ef4068260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c04.renderer.exr using Guid(29c007dad5979074a8e5fb8ef4068260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d21e25db3988826a90d8adb2bdc4af6') in 0.012513 seconds 
+  Import took 0.016195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c05.renderer 1.exr
+  artifactKey: Guid(8e3be0eca4ca66d4f85b0c7c3e08c847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/eskiVirus/TwoDiffusersStudio_SPEC_c05.renderer 1.exr using Guid(8e3be0eca4ca66d4f85b0c7c3e08c847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f0a36dc071b45f22beffbd9624ae2e3') in 0.017872 seconds 
+  Import took 0.023219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Prefabs/yenikule
+  artifactKey: Guid(3bd43edbed514274a986d189100da1f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/yenikule using Guid(3bd43edbed514274a986d189100da1f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b06968e898e1e7cfa63fc81185ec0ac6') in 0.007662 seconds 
+  Import took 0.012520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Prefabs/Start.prefab
+  artifactKey: Guid(00c5230827ee90d429cd868eaf0c88e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Start.prefab using Guid(00c5230827ee90d429cd868eaf0c88e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bab272e60cd9aec7e56cdeebba7c2972') in 0.014453 seconds 
+  Import took 0.017921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Prefabs/Canvas.prefab
+  artifactKey: Guid(b1d9f506b7982b440894039d772814d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Canvas.prefab using Guid(b1d9f506b7982b440894039d772814d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ed794de48d1584a4ebb071f13ad80c3') in 0.011767 seconds 
+  Import took 0.014860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Prefabs/eskiVirus/sars 1.jpg
+  artifactKey: Guid(9bfba90a9842ac34596a9aa7b22f08b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/eskiVirus/sars 1.jpg using Guid(9bfba90a9842ac34596a9aa7b22f08b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6d8b3134cd3245bc9762cbd148270e5') in 0.020437 seconds 
+  Import took 0.024910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001273 seconds.
+  path: Assets/Prefabs/syringe_v1_L1.123cb2fa3415-7c22-4e57-9194-c88a9861f8b3/16981_syringe_v1.obj
+  artifactKey: Guid(6c485e509d724d64790e38face0803f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/syringe_v1_L1.123cb2fa3415-7c22-4e57-9194-c88a9861f8b3/16981_syringe_v1.obj using Guid(6c485e509d724d64790e38face0803f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dacab514da12787430aacb108cf2803') in 0.024987 seconds 
+  Import took 0.029189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Prefabs/Finish.prefab
+  artifactKey: Guid(473d221fb068e13458306cb0ce1519d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Finish.prefab using Guid(473d221fb068e13458306cb0ce1519d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c6112b5803e3b2b5a9780b970d6a37d') in 0.014660 seconds 
+  Import took 0.018203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Prefabs/Directional Light.prefab
+  artifactKey: Guid(b17211ad3a2180241ae3d6c43d164455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Directional Light.prefab using Guid(b17211ad3a2180241ae3d6c43d164455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebf095e6fa5ab364f411ae71b70d61be') in 0.012049 seconds 
+  Import took 0.015712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Prefabs/Road 1.prefab
+  artifactKey: Guid(63b46321519ac9e4d95334ee5175fb6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Road 1.prefab using Guid(63b46321519ac9e4d95334ee5175fb6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04d0083dd523958b3cb846e205470ad8') in 0.016793 seconds 
+  Import took 0.020137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Prefabs/eskiVirus/TwoDiffusersStudio_IRD_c00.renderer.exr
+  artifactKey: Guid(5fd43b358ad2cf04a90ba81f5f0fc86c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/eskiVirus/TwoDiffusersStudio_IRD_c00.renderer.exr using Guid(5fd43b358ad2cf04a90ba81f5f0fc86c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bfb968781ad474e5d3e9df57b1576e7') in 0.011085 seconds 
+  Import took 0.014008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Prefabs/EventSystem.prefab
+  artifactKey: Guid(ce524fb58e47aff498a2a415b877692e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/EventSystem.prefab using Guid(ce524fb58e47aff498a2a415b877692e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8523a66ff11decd0adec6f2f4fc6a853') in 0.011916 seconds 
+  Import took 0.017729 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

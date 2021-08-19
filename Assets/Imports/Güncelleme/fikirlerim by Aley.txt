@@ -1,0 +1,3 @@
+Bence lazer kulesi daha pahalı olmalı
+Wave aralarını bulunduğu wave sayısının 3 katı olsa daha iyi olmaz mı
+yani 10. dalga ile 11. dalga arası 30 saniye veya 2 katı da olabilir

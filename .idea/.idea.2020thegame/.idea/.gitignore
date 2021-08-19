@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.2020thegame.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\Omer\Desktop\Unity\2020thegame\.idea\.idea.2020thegame\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
